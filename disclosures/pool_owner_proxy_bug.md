@@ -59,11 +59,11 @@ The enactment: [0x98a86c5b09ee1e752a9d74ce08c1fe74229e13cd9a9f871a90cda67ad4a16f
   - [0xab3f08620bb3f7d388e52ca68e4b38778847a99b09957fde6670e5dd5985c282](https://etherscan.io/tx/0xab3f08620bb3f7d388e52ca68e4b38778847a99b09957fde6670e5dd5985c282)
   - [0x0d93ac6943b6cb3f40b67dd4799911f4d54dd9e95a6273fe5fa03deec5f5bc1f](https://etherscan.io/tx/0x0d93ac6943b6cb3f40b67dd4799911f4d54dd9e95a6273fe5fa03deec5f5bc1f)
   - [0xd3397312a852c7ff39af15d1cf267ede0b75a19450a292d245e00be8a591abff](https://etherscan.io/tx/0xd3397312a852c7ff39af15d1cf267ede0b75a19450a292d245e00be8a591abff)
-- Having exploited fees from the Curve DAO, they raise the vulnerability to security@curve.fi and on the #dev channel on Curve Finance discord.
+- Having stealing fees from the Curve DAO, the individual raise the vulnerability to security@curve.fi and on the #dev channel on Curve Finance discord.
 - The individual is paid out 100k CRV for reporting the bug: (0xc78ba0c03e6aca0e12115019bd8e63792660276ad460a0921b0b971352593349)[https://etherscan.io/tx/0xc78ba0c03e6aca0e12115019bd8e63792660276ad460a0921b0b971352593349]
-- Following discussions with the team, an amended contract is created, and a DAO vote is initiated and enacted.
+- Core team creates an amended contract, initiates an on-chain DAO proposal to implement the fix and enacts the fix once the DAO has voted in favor of the proposal.
 - During the voting period, the researcher's EOA receives claimed fees from the bot that claims and burns fees for Curve. We ask the individual to return the funds, but they refuse.
-- Classifying this as black hat behaviour, the individual is reported to ImmuneFi.
+- Classifying this as black hat behaviour, the core team reports the individual to ImmuneFi.
 
 
 ## Links
