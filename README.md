@@ -49,4 +49,4 @@ There are three tiers of likelihood:
 
 ## Contact
 
-[security@curve.fi](mailto:security@curve.fi)
+[security@curve.finance](mailto:security@curve.finance)
