@@ -1,6 +1,6 @@
 # Curve Security Incident Reports
 
-This repository documents security-related disclosures at Curve Finance. Vulnerability reports are mentioned in `disclosures/` and audits are reported in `audits/`.
+This repository documents security-related disclosures at Curve Finance. Vulnerability reports are mentioned in `disclosures/`.
 
 # Curve Finance Bug Bounty Program
 
